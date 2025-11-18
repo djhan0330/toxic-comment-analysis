@@ -1,0 +1,3 @@
+# Ignore data
+data/all_data.csv
+data/train.csv
